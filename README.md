@@ -101,3 +101,7 @@ THINGS to include
 
     What is Docker and what are its benefits?
     A Docker container is a tool that makes it very easy to deploy and run an application using containers. A container allows a developer to create an all-in-one package of the developed application with all its dependencies.
+
+
+### For isae students access can be granted on google drive docs 
+`https://docs.google.com/document/d/1Ez-N_qv2GTJPf-2jOcjdKPuKzogrUUWGt3sz6b-zLwQ/edit`
