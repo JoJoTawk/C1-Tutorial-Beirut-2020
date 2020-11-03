@@ -1,6 +1,6 @@
 
 # C1 Tutorial 
-This tutorial will explain what is the microservices architecture using Java springBoot in Intellij IDE, how to deploy Docker using Docker Hub.
+This tutorial will explain what is the SpringBoot architecture using Java in Intellij IDE, how to deploy Docker using Docker Hub.
 
 A short video will be attached explaining this document.
 
