@@ -58,8 +58,6 @@ This command will create a “.jar” file  in the target directory of the worki
 
 ### Create a new file in the project name it Dockerfile and add the following 
 
-
-
     FROM java:8
     EXPOSE 8080
     ADD /target/jhonny.jar jhonny.jar
@@ -84,7 +82,6 @@ Now to run docker there is some steps which we must follow
         (jhonny .) can be your customized docker image name
         docker images (get list of all Images)
         docker run -p 8080:8080 jhonny (jhonny is the image name)
-
 
     You can see it running on http://localhost:8080/simpleAPI same as we run it from intelliji IDE
 
