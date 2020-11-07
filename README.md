@@ -102,3 +102,7 @@ THINGS to include
 
 ### For isae students access can be granted on google drive docs 
 `https://docs.google.com/document/d/1Ez-N_qv2GTJPf-2jOcjdKPuKzogrUUWGt3sz6b-zLwQ/edit`
+
+# VIDEO LINK
+
+`https://we.tl/t-MXh3Asl7N0`
